@@ -1,0 +1,76 @@
+Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: Enter a name last, first: More names? y/n: 
+All of the names in alphabetical order are: 
+Adachi, Toru
+Amagi, Yukiko
+Another, Test
+Bootys, Bad Luck
+Chu, Pika
+Dojima, Nanako
+Dojima, Ryotoru
+Down, Benn
+EEEEEEP, MEEEEP
+FINALLY, DONE!!!
+Final, Entry 
+Fuck, James
+Hanamura, Yosuke
+Known, Un
+Kogawa, Iori
+Lindstrom, Mike
+Matei, Mike
+More, Names!
+Name-Test, Sp- Ty.
+Noel, Teia
+Oak, Prof
+One, More
+Osha, Wott
+Pip Plup, Plupster
+Plup, Pip
+Plupster, The
+Punk, Daft
+Rolfe, James
+Satanaka, Chie
+Takana, Hitomi
+Tatsumi, Kanji
+Test, Name
+Two, Mew
+Uehara, Ai
+Yamagashi, Fuuka
+Yamamoto, Casey
+
+And all of the first names following the same order as above are: 
+Toru
+Yukiko
+Test
+Bad Luck
+Pika
+Nanako
+Ryotoru
+Benn
+MEEEEP
+DONE!!!
+Entry 
+James
+Yosuke
+Un
+Iori
+Mike
+Mike
+Names!
+Sp- Ty.
+Teia
+Prof
+More
+Wott
+Plup, Plupster
+Pip
+The
+Daft
+James
+Chie
+Hitomi
+Kanji
+Name
+Mew
+Ai
+Fuuka
+Casey
